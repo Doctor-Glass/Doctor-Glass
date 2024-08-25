@@ -5,6 +5,10 @@ Also called Doctor Glass, based on an in-joke from my Army days. I do fullstack 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-Nathan%20Hodson-%230A66C2?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&labelColor=%230A66C2&color=%23232323&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnathan-hodson-4865b8321%2F)
 ![Static Badge](https://img.shields.io/badge/Gmail-worldofspaceships%40gmail.com-%230A66C2?style=flat-square&logo=gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23232323&link=worldofspaceships%40gmail.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-glass&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=doctor-glass&theme=slateorange&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-glass&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
 ## Some Fast Facts
 - I served in the Army as a Signals Intelligence Analyst
