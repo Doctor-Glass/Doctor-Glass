@@ -1,32 +1,37 @@
-## Hi, I'm Nate 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nate Hodson
+===================================================================================================================================
 
-Also called Doctor Glass, based on an in-joke from my Army days. I do fullstack development for web applications, and design video games on the side. I'm a fan of open-source software, cybersecurity, and pizza. I'm always looking for opportunities to grow and expand my mental toolbox and to build great things. Feel free to connect with me here:
+Fullstack Web and Video Game Developer
+--------------------------------------
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-Nathan%20Hodson-%230A66C2?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&labelColor=%230A66C2&color=%23232323&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnathan-hodson-4865b8321%2F)
-![Static Badge](https://img.shields.io/badge/Gmail-worldofspaceships%40gmail.com-%230A66C2?style=flat-square&logo=gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23232323&link=worldofspaceships%40gmail.com)
+I've been coding off and on for nine years. I started working on expanding my skillset to cover the full stack after joining the US Army. I'm looking for a career in software development that can challenge my and expand my toolbox.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctor-glass&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=doctor-glass&theme=slateorange&hide_border=true)
+* 🌍  I'm based in Washington State
+* 🖥️  See my portfolio at [my site](http://doctor-glass.github.io)
+* ✉️  You can contact me at [worldofspaceships@gmail.com](mailto:worldofspaceships@gmail.com)
+* 🚀  I'm currently working on [Jamico's Guide, an EVE Online guide/wiki](http://doctor-glass.github.io/Jamico-s-Guide/)
+* 🧠  I'm learning React and Redux
+* 🤝  I'm open to collaborating on new indie games and interesting web projects
+* ⚡  I run a player group in EVE Online, which has given me a lot of experience with leadership and project management
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-glass&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+### Skills
 
-## Some Fast Facts
-- I served in the Army as a Signals Intelligence Analyst
-- I've been coding since I was 16, almost a full decade now
-- I'm entirely self-taught, using various software projects to expand my skills
-- I run a corporation in EVE Online for fun, and I've deployed a number of web tools to help with that
-- When I'm not coding I'm working on my car, a 2005 Subaru Baja
 
-![freeCodeCamp points](https://img.shields.io/freecodecamp/points/worldofspaceships)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
 
-## Tech I Use
 
-![Static Badge](https://img.shields.io/badge/HTML5-%23000000?style=flat-square&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23232323)
-![Static Badge](https://img.shields.io/badge/CSS-%23000000?style=flat-square&logo=css3&logoColor=%23FFFFFF&labelColor=%231572B6&color=%23232323)
-![Static Badge](https://img.shields.io/badge/PHP-%23000000?style=flat-square&logo=php&logoColor=%23FFFFFF&labelColor=%23777BB4&color=%23232323)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23000000?style=flat-square&logo=javascript&logoColor=%23FFFFFF&labelColor=%23F7DF1E&color=%23232323)
-![Static Badge](https://img.shields.io/badge/MySQL-%23000000?style=flat-square&logo=mysql&logoColor=%23FFFFFF&labelColor=%234479A1&color=%23232323)
-![Static Badge](https://img.shields.io/badge/C%23-%23000000?style=flat-square&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23232323)
+### Socials
 
-![Static Badge](https://img.shields.io/badge/Unity-%23000000?style=flat-square&logo=unity&logoColor=%23FFFFFF&labelColor=%23000000&color=%23232323)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio-%23000000?style=flat-square&logoColor=%23FFFFFF&labelColor=%23000000&color=%23232323)
+<p align="left"> <a href="https://www.dev.to/doctor-glass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/halfpasteight" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/doctor-glass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nathan-hodson-4865b8321" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/doctor-glass"><img src="https://github-readme-stats.vercel.app/api?username=doctor-glass&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="doctor-glass's GitHub stats" /></a>
+
+<a href="http://www.github.com/doctor-glass"><img src="https://github-readme-streak-stats.herokuapp.com/?user=doctor-glass&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/doctor-glass" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctor-glass&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
